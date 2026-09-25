@@ -1,6 +1,6 @@
 # University Student Record and Campus Route Management System
 
-CIT300 Data Structures and Algorithms — Graded Practical Assignment 1 (Week 10)
+CIT300 Data Structures and Algorithms — Practical Assignment 1
 
 ## How to compile and run
 
